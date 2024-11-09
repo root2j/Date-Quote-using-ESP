@@ -13,7 +13,7 @@ const io = new Server(server, {
   },
 });
 
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 let lastCommand = ""; // Store the latest command
 
