@@ -1,7 +1,5 @@
 ---
-title: "Date Quote using ESP"
-description: "A lightweight Node.js and Socket.IO application to control an ESP display for showing the current time and random quotes."
-license: "MIT"
+
 ---
 
 <div align="left" style="position: relative;">
