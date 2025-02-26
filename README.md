@@ -1,3 +1,5 @@
+Below is the updated markdown with all the placeholders replaced with detailed descriptions:
+
 ---
 
 <div align="left" style="position: relative;">
